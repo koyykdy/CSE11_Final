@@ -1,0 +1,3 @@
+[width of world in tiles] [height of world in tiles]
+[spawn location x in pixels] [spawn location y in pixels]
+[matrix index data on tile composition of map]
